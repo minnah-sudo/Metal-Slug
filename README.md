@@ -24,13 +24,13 @@ Libraries
 
 Standard C++ libraries
 
-\- <iostream>
+\- iostream
 
-\- <fstream>
+\- fstream
 
-\- <cmath>
+\- cmath
 
-\- <ctime>
+\- ctime
 
 
 
